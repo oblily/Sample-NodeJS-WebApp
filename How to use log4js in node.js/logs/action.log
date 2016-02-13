@@ -1,0 +1,5 @@
+[2016-02-13 21:09:37.915] [TRACE] action - Action: Trace Message
+[2016-02-13 21:09:37.916] [DEBUG] action - Action: Debug Message
+[2016-02-13 21:09:37.916] [INFO] action - Action: Info Message
+[2016-02-13 21:09:37.916] [ERROR] action - Action: Error Message
+[2016-02-13 21:09:37.916] [FATAL] action - Action: Fatal Message

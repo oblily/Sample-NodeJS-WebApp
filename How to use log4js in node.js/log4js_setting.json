@@ -1,0 +1,36 @@
+{
+    "appenders": [
+	{
+            "type":     "file",
+            "category": "system",
+            "maxLogSize": 1048576,
+            "backups": 3,
+            "filename": "logs/system.log"
+        },
+        {
+            "type":     "dateFile",
+            "category": "request",
+            "filename": "logs/request.log",
+            "pattern":  "-yyyy-MM-dd"
+        },
+        {
+            "type":     "dateFile",
+            "category": "action",
+            "filename": "logs/action.log",
+            "pattern":  "-yyyy-MM-dd"
+        },
+        {
+            "type":     "dateFile",
+            "category": "error",
+            "filename": "logs/error.log",
+            "pattern":  "-yyyy-MM-dd"
+        }
+    ],
+        
+    "levels":{
+        "system": "ALL",
+        "request": "ALL",
+        "action": "ALL",
+        "error": "ALL"    
+    }
+}

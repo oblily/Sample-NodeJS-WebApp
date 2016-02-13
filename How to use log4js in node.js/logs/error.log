@@ -1,0 +1,5 @@
+[2016-02-13 21:09:37.916] [TRACE] error - Error: Trace Message
+[2016-02-13 21:09:37.916] [DEBUG] error - Error: Debug Message
+[2016-02-13 21:09:37.916] [INFO] error - Error: Info Message
+[2016-02-13 21:09:37.916] [ERROR] error - Error: Error Message
+[2016-02-13 21:09:37.917] [FATAL] error - Error: Fatal Message

@@ -1,0 +1,5 @@
+[2016-02-13 21:09:37.914] [TRACE] request - Request: Trace Message
+[2016-02-13 21:09:37.915] [DEBUG] request - Request: Debug Message
+[2016-02-13 21:09:37.915] [INFO] request - Request: Info Message
+[2016-02-13 21:09:37.915] [ERROR] request - Request: Error Message
+[2016-02-13 21:09:37.915] [FATAL] request - Request: Fatal Message

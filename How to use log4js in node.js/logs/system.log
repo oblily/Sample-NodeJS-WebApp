@@ -1,0 +1,5 @@
+[2016-02-13 21:09:37.898] [TRACE] system - System: Trace Message
+[2016-02-13 21:09:37.913] [DEBUG] system - System: Debug Message
+[2016-02-13 21:09:37.913] [INFO] system - System: Info Message
+[2016-02-13 21:09:37.914] [ERROR] system - System: Error Message
+[2016-02-13 21:09:37.914] [FATAL] system - System: Fatal Message
